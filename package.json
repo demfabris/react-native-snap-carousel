@@ -1,6 +1,6 @@
 {
   "name": "@demfabris/react-native-snap-carousel",
-  "version": "3.9.1",
+  "version": "3.9.2",
   "description": "Swiper/carousel component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support. Compatible with Android & iOS.",
   "main": "src/index.js",
   "repository": {
@@ -34,7 +34,7 @@
     "component",
     "rtl"
   ],
-  "author": "Meliorence <contact@meliorence.com> (github.com/meliorence)",
+  "author": "Who cares",
   "license": "BSD-3-Clause",
   "dependencies": {
     "deprecated-react-native-prop-types": "^5.0.0",
@@ -60,5 +60,6 @@
   "bugs": {
     "url": "https://github.com/demfabris/react-native-snap-carousel/issues"
   },
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "private": false
 }
